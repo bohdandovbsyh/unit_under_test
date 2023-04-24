@@ -1,0 +1,1 @@
+print('APP was builded sucessffully')
